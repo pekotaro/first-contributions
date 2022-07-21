@@ -1096,4 +1096,5 @@
 - [Ketan Saraf](https://github.com/Keshraf)
 - [Jared Whitlock](https://github.com/Drone14)
 - [Robotduinom](https://github.com/robotduinom)
+- [Takuro Sakata](https://github.com/pekotaro)
 <!-- prettier-ignore-end -->
